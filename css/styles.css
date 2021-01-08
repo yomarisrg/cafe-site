@@ -95,4 +95,9 @@ h1, h2, h3, h4 {
     position: relative;
     left: 20px;
   }
+  
+  .cover-text:hover {
+  transform: scale(1.10);
+  transition: all ease 0.5s;
+}
 }
